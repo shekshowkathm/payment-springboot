@@ -15,6 +15,7 @@ public class Order {
 	private String method;
 	private String intent;
 	private String description;
+	
 	public double getPrice() {
 		return price;
 	}
